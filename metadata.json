@@ -1,6 +1,0 @@
-{
-  "name": "CleanBite",
-  "description": "Interactive map displaying local restaurant health inspection scores, consumer ratings, cuisine & price filtering, inspection history trends, and Google Play monetization features.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
