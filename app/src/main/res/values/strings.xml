@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">CleanBite</string>
-    <string name="read_listing_aloud">Read listing aloud</string>
-    <string name="stop_voice_synthesis">Stop voice synthesis</string>
-</resources>
